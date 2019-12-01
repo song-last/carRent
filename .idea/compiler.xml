@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="carRent" />
+        <module name="carRent-common" />
+        <module name="carRent-manager-dao" />
+        <module name="carRent-manager-pojo" />
+        <module name="carRent-manager-service" />
+        <module name="carRent-manager-web" />
+        <module name="NXPro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="carRent" target="1.8" />
+      <module name="carRent-common" target="1.8" />
+      <module name="carRent-manager" target="1.8" />
+      <module name="carRent-manager-dao" target="1.8" />
+      <module name="carRent-manager-pojo" target="1.8" />
+      <module name="carRent-manager-service" target="1.8" />
+      <module name="carRent-manager-web" target="1.8" />
+      <module name="carRent-parent" target="1.8" />
+      <module name="NXPro" target="1.5" />
+      <module name="NXProject" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

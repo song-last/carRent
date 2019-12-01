@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NXPro/NXPro.iml" filepath="$PROJECT_DIR$/NXPro/NXPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent.iml" filepath="$PROJECT_DIR$/carRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-common/carRent-common.iml" filepath="$PROJECT_DIR$/carRent-common/carRent-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-manager/carRent-manager.iml" filepath="$PROJECT_DIR$/carRent-manager/carRent-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-manager-dao/carRent-manager-dao.iml" filepath="$PROJECT_DIR$/carRent-manager-dao/carRent-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-manager-pojo/carRent-manager-pojo.iml" filepath="$PROJECT_DIR$/carRent-manager-pojo/carRent-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-manager-service/carRent-manager-service.iml" filepath="$PROJECT_DIR$/carRent-manager-service/carRent-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-manager-web/carRent-manager-web.iml" filepath="$PROJECT_DIR$/carRent-manager-web/carRent-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carRent-parent/carRent-parent.iml" filepath="$PROJECT_DIR$/carRent-parent/carRent-parent.iml" />
+    </modules>
+  </component>
+</project>
