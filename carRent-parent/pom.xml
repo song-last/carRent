@@ -16,7 +16,7 @@
 
     <!-- 集中定义版本号 -->
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven-resources-plugin>3.0.2</maven-resources-plugin>
         <maven-compiler-plugin>3.8.0</maven-compiler-plugin>
         <mybatis.version>3.5.3</mybatis.version>
